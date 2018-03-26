@@ -1,0 +1,12 @@
+{
+  "name": "Bscroll",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel -p 9000 --open --no-hmr ./index.html"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "less": "^3.0.1"
+  }
+}
